@@ -1,0 +1,384 @@
+{"Main":{	
+  "Info":{
+    "-------------- Color Code--------------------------":"",
+    "Color Opacity (Hex)":"",
+    "00 = 0%":"",
+    "0C = 5%":"",
+    "19 = 10%":"",
+    "33 = 20%":"",
+    "3F = 25%":"",
+    "4C = 30%":"",
+    "59 = 35%":"",
+    "66 = 40%":"",
+    "72 = 45%":"",
+    "7F = 50%":"",
+    "8C = 55%":"",
+    "99 = 60%":"",
+    "A5 = 65%":"",
+    "B2 = 70%":"",
+    "BF = 75%":"",
+    "CC = 80%":"",
+    "D8 = 85%":"",
+    "E5 = 90%":"",
+    "F2 = 95%":"",
+    "FF = 100%":"",
+    "Example 'FF000000', 000000 is the color code and 'FF' is Color Opacity":"",    
+    "--------------------------------------------------------------":"",           
+    "Note1":"Main/Main/Image, Main/Options/Main/Image, Main/ScriptHub/Main/Image can load from file (only), can't load from website (It work for some computer)",
+    "-----------------------------------------------------------":"",
+    "Note2": "And Image that I don't put file path in it. can load from website (only), can't load from file.",
+    "--------------------------------------------------------":"",
+    "Note3": "don't support imgur (if you use .gif)(work fine with .png,.jpg) use vgy.me",
+    "-----------------------------------------------------":""
+  },
+	"Main":
+		{        
+        "BackColor":"#202020", 
+        "Image can't load from website (Work for some computer)": "",
+        "| | | |": "",
+        "V V V V": "",
+        "Image": "Data\\Resource\\Transparent.png",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1",
+        "ShadowEffect": {
+          "BlurRadius": "12"
+        }
+		},
+	"TopBar":
+		{
+      "BackColor":"#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image":"",
+      "Text":"Spero",
+      "Ready":"Successfully Injected",
+      "FailedToFindRoblox":"Failed to inject",
+      "AlreadyInjected":"Alredy Injected",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+  "TabControl":
+		{
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1",
+      "TabcontrolColor": "#181818"
+		},
+	"ScriptList":
+		{
+        "BackColor":"#181818",
+        "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+        "Image":"",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+		},
+  "Buttons": {   
+    "PleaseLabel": {
+      "Text": "Please get key, to use Spero.",
+      "TextColor": "#FFFFFF"
+    },
+    "SubscribeLabel": {
+      "Text": "Subscribe to our Yt channel for more",
+      "TextColor": "#FFFFFF"
+    },
+    "PasswordBox": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Put your key here",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Premium": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Premium Login",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Login": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Authenticate",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "GetHwid": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Get HWID",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "GetKey": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Get Key",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Subscribe": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Subscribe",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Close": {
+      "BackColor": "#00DE3C6F",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F"
+    },
+    "Execute": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Execute",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Minimize": {
+      "BackColor": "#00DE3C6F",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F"
+    },
+    "Clear": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Clear",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "OpenFile": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Open File",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "ExecuteFile": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Execute File",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "SaveFile": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Save File",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Options": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Options",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+     "Attach": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Attach",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "ScriptHub": {
+      "BackColor": "#202020",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Script Hub",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    }
+  },
+  "Options": 
+  {
+    "TopBar": {
+    "BackColor": "#181818",
+    "Text": "Spero - Options",
+    "BorderColor": "#00DE3C6F",
+    "BorderThickness": "1"
+    },
+    "Main": {
+      "BackColor": "#202020",
+      "Image can't load from website (Work for some computer)": "",
+      "| | | |": "",
+      "V V V V": "",
+      "Image": "Data\\Resource\\Transparent.png",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "TextBox": {
+      "Width": {
+        "TextColor": "#FFFFFF",
+        "BackColor": "#181818",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+      },
+      "Height": {
+        "TextColor": "#FFFFFF",
+        "BackColor": "#181818",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+      }   
+    },
+    "Buttons": {
+      "Close": {
+        "BackColor": "#00fc5a8d",
+        "TextColor": "#FFFFFF"
+      },
+      "ResetSize": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "Text": "Restart",
+      "TextColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+      },
+      "Confirm": {
+        "BackColor": "#181818",
+        "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+        "Image": "",
+        "Text": "Confirm",
+        "TextColor": "#FFFFFF",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+      }
+    }
+  },
+  "ScriptHub": {
+    "TopBar": {
+      "BackColor": "#181818",
+      "Text": "Spero - Script Hub",
+      "ForeColor": "#FFFFFF",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Main": {
+      "BackColor": "#202020",
+      "Image can't load from website (Work for some computer)": "",
+      "| | | |": "",
+      "V V V V": "",
+      "Image": "Data\\Resource\\Transparent.png",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "ScriptList": {
+      "BackColor": "#181818",
+      "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+      "Image": "",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Image": {
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "TextBox": {
+      "BackColor": "#181818",
+      "BorderColor": "#00DE3C6F",
+      "BorderThickness": "1"
+    },
+    "Buttons": {
+      "RunScript": {
+        "BackColor": "#202020",
+        "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+        "Image": "",
+        "Text": "Execute",
+        "TextColor": "#FFFFFF",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+      },
+      "Mini": {
+        "BackColor": "#00fc5a8d",
+        "TextColor": "#FFFFFF"
+      },
+      "CloseScriptHub": {
+        "BackColor": "#202020",
+        "Image can't load from file. Use website (https://vgy.me (Work if you gif) (https://imgur.com (Don't work if you use gif)": "",
+        "| | | |": "",
+        "V V V V": "",
+        "Image": "",
+        "Text": "Close",
+        "TextColor": "#FFFFFF",
+        "BorderColor": "#00DE3C6F",
+        "BorderThickness": "1"
+        }
+      }
+    }					
+  }		
+}
